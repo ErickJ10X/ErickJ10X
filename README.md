@@ -2,10 +2,12 @@
 <h1 align="center"><b>Hi , I'm Erick Quispe </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
+# 💫 About Me:
 <img align="right" alt="Clancy" src="https://media.tenor.com/tpdXHrvN4M8AAAAM/midnight-gospel.gif">
 
-# 💫 About Me:
+
 I am a higher education student in web application development. I am very interested in back end with Java and Spring Framework. I also enjoy games, a fan of Sekiro and Hollow Knight.
+
 
 
 ## 🌐 Socials:
