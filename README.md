@@ -8,7 +8,7 @@
 
 I am a higher education student in web application development.</br>
 I am very interested in back end with Java and Spring Framework.</br>
-<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">
 <img width="100" alt="Spring" src="https://static-00.iconduck.com/assets.00/spring-icon-512x512-bdmpbhxj.png">
 I also enjoy games, a fan of Sekiro and Hollow Knight.
 
