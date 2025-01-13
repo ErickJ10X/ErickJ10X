@@ -7,11 +7,12 @@
 <img align="right" alt="Clancy" src="https://media.tenor.com/tpdXHrvN4M8AAAAM/midnight-gospel.gif">
 
 I am a higher education student in web application development.</br>
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
-<img width="100" alt="Spring" src="https://static-00.iconduck.com/assets.00/spring-icon-512x512-bdmpbhxj.png">
-
 I am very interested in back end with Java and Spring Framework.</br>
+<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+<img width="100" alt="Spring" src="https://static-00.iconduck.com/assets.00/spring-icon-512x512-bdmpbhxj.png">
 I also enjoy games, a fan of Sekiro and Hollow Knight.
+<img width="100" alt="Spring" src="https://imgs.search.brave.com/iBaqgyx-2-W-MoCCRjiEGqzQhYkf3b1T0Art3XPxcQs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtd2l4bXAtZWQz/MGE4NmI4YzRjYTg4/Nzc3MzU5NGMyLndp/eG1wLmNvbS9mL2M3/OGJjM2ZjLTlmMDgt/NDdjYS04MWFlLWQ4/OTA1NWM3ZWM0OS9k/Y2pmMWc3LWVmNWMz/MDQ0LTc0NDktNGNj/ZS1hODdjLTMyYzVi/NzljYTc5OC5wbmc_/dG9rZW49ZXlKMGVY/QWlPaUpLVjFRaUxD/SmhiR2NpT2lKSVV6/STFOaUo5LmV5Snpk/V0lpT2lKMWNtNDZZ/WEJ3T2pkbE1HUXhP/RGc1T0RJeU5qUXpO/ek5oTldZd1pEUXhO/V1ZoTUdReU5tVXdJ/aXdpYVhOeklqb2lk/WEp1T21Gd2NEbzNa/VEJrTVRnNE9UZ3lN/alkwTXpjellUVm1N/R1EwTVRWbFlUQmtN/alpsTUNJc0ltOWlh/aUk2VzF0N0luQmhk/R2dpT2lKY0wyWmNM/Mk0zT0dKak0yWmpM/VGxtTURndE5EZGpZ/UzA0TVdGbExXUTRP/VEExTldNM1pXTTBP/Vnd2WkdOcVpqRm5O/eTFsWmpWak16QTBO/QzAzTkRRNUxUUmpZ/MlV0WVRnM1l5MHpN/bU0xWWpjNVkyRTNP/VGd1Y0c1bkluMWRY/U3dpWVhWa0lqcGJJ/blZ5YmpwelpYSjJh/V05sT21acGJHVXVa/RzkzYm14dllXUWlY/WDAuQ0pkX1Ixd1Vf/MkNpNVpucXFHdTM0/YlF0djlzbHlzT1Zy/bkpzS3R4U040cw">
+
 
 </br>
 </br>
