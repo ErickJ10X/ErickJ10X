@@ -25,6 +25,7 @@ I also enjoy games, a fan of Sekiro and Hollow Knight.
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erickj10x&theme=radical&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickj10x&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div>
