@@ -7,10 +7,11 @@ I am a higher education student in web application development.</br>
 I am very interested in back end with Java and Spring Framework.</br>
 I also enjoy games, a fan of Sekiro and Hollow Knight.
 
+<br/>
 
 <img align="right" alt="Clancy" src="https://media.tenor.com/tpdXHrvN4M8AAAAM/midnight-gospel.gif">
 
-
+<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-joel-quispe/) 
