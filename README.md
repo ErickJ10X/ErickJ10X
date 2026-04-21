@@ -3,10 +3,10 @@
                                                                                                                                                                                                              
   <p align="center">                                                                                                                                                                                         
     <a href="https://www.linkedin.com/in/erick-joel-quispe/">                                                                                                                                                
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />                                                                                    
+      <img src="https://skillicons.dev/icons?i=linkedin" />                                                                                                                                                  
     </a>                                                                                                                                                                                                     
-    <a href="mailto:erickjo10x@gmail.com">                                                                                                                                                                   
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />                                                                                                 
+    <a href="mailto:erickjo10x@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" />                                                                                                                                                     
     </a>                                                                                                                                                                                                     
   </p>
                                                                                                                                                                                                              
